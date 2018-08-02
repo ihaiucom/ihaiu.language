@@ -1,0 +1,14 @@
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\NLog.config
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\NLog.xsd
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\Language.deps.json
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\Language.runtimeconfig.json
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\Language.runtimeconfig.dev.json
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\Language.dll
+E:\zengfeng\github\ihaiu.language\Bin\netcoreapp2.0\Language.pdb
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.csprojResolveAssemblyReference.cache
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.csproj.CoreCompileInputs.cache
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.AssemblyInfoInputs.cache
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.AssemblyInfo.cs
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.csproj.CopyComplete
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.dll
+E:\zengfeng\github\ihaiu.language\Language\Language\obj\Debug\netcoreapp2.0\Language.pdb
