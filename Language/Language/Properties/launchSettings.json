@@ -2,7 +2,7 @@
   "profiles": {
     "Language": {
       "commandName": "Project",
-      "commandLineArgs": "--cmd=langreader"
+      "commandLineArgs": "--cmd=editor2source"
     }
   }
 }

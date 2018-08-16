@@ -23,6 +23,10 @@ public class Options
     [Option("xlsxDir", Required = false, Default = "E:/zengfeng/GamePF/gamepf_doc/Config/Common")]
     public string xlsxDir { get; set; }
 
+    // xlsx目录(可以用分号';'分割填写多个路径)
+    [Option("xlsxSavaAsDir", Required = false, Default = "E:/zengfeng/GamePF/gamepf_doc/Config/Lang/CommonEditorToSource")]
+    public string xlsxSavaAsDir { get; set; }
+
     // xlsx 需要的语言
     [Option("langs", Required = false, Default = new string[] { "zh_cn", "en"})]
     public string[] langs { get; set; }

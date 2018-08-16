@@ -35,6 +35,10 @@ class Program
             case CmdType.langreader:
                 langreader();
                 break;
+            // 将Editor里的文本替换原文本
+            case CmdType.editor2source:
+                editor2source();
+                break;
         }
 
 
@@ -104,9 +108,19 @@ class Program
             GenerateLangConfigLoaderList generate = new GenerateLangConfigLoaderList(xlsxManager);
             generate.Generate();
         }
-
-
-
-
     }
+
+
+    // 将Editor里的文本替换原文本
+    static void editor2source()
+    {
+        XlsxManager xlsxManager = new XlsxManager();
+        xlsxManager.LoadAllTable(Setting.Options.langDir + "/editor");
+
+
+        Lang2SourceManager generateLangPackage = new Lang2SourceManager(xlsxManager);
+        generateLangPackage.Run();
+    }
+
+
 }

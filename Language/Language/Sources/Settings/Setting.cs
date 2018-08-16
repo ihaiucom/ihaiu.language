@@ -15,6 +15,8 @@ public class CmdType
     public const string langpackage = "langpackage";
     // 生成 TS 代码读取器 和对应的 csvn
     public const string langreader = "langreader";
+    // 将Editor里的文本替换原文本
+    public const string editor2source = "editor2source";
 }
 
 

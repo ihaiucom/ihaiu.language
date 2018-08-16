@@ -1,8 +1,9 @@
 {
   "autoEnd": false,
-  "cmd": "langreader",
+  "cmd": "editor2source",
   "optionSetting": "./LanguageSetting.json",
   "xlsxDir": "E:/zengfeng/GamePF/gamepf_doc/Config/Common",
+  "xlsxSavaAsDir": "E:/zengfeng/GamePF/gamepf_doc/Config/Lang/CommonEditorToSource",
   "langs": [
     "zh_cn",
     "en"
